@@ -14,7 +14,7 @@
 
 
 //#define _CRT_SECURE_NO_WARNINGS
-#define TEST_MODE
+//#define TEST_MODE
 
 #define NUM_WORDS_MNEMONIC					(12)
 #define SIZE_MNEMONIC_FRAME					(128)
